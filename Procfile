@@ -1,1 +1,1 @@
-web: gunicorn Django_Portfilio_MohammadBurhan.wsgi --log-file -
+web: gunicorn Django_Portfilio_bittu.wsgi --log-file -
